@@ -1,0 +1,65 @@
+<!DOCTYPE html
+<html lang="pl">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Psiaki</title>
+    <meta name="description" content="Przed Tob¹ najs³odsze psiaki."/>
+   <meta name="keywords" content="pies, zwierzêta"/>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="stylesheet" href="css.css" type="text/css"/>
+
+
+</head>
+
+<body>
+    
+<div id="container">
+
+    <div id="logo">
+<H1>To najs³odsze co dzisiaj zobaczysz!</H1>
+    Usi¹æ wygodnie i rozkoszuj siê widokiem tych uroczych stworzeñ!
+    <br/>
+
+    </div>
+
+<div id="nav">
+Labrador retriever <br/>
+<a>
+    <img src="http://zooart.com.pl/blog/wp-content/uploads/2022/06/LABRADOR-RETRIEVER-SZCZENIAKI-1000x667-1.jpg" width="400" height="400">
+</a>
+<div id="content">
+    Amerykañski Staffordshire terrier
+<a>
+    <img src="https://polki.pl/foto/4_3_LARGE/american-staffordshire-terrier-czyli-amstaff-opis-tresura-zywienie-2448429.jpg" style="margin: 0 90px;" alt="Lew" width="400" height="400" />
+    
+</a>
+</div>
+
+<br/>
+Jack Russell terrier 
+<a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jack_Russell_Terrier_-_bitch_Demi.JPG/1200px-Jack_Russell_Terrier_-_bitch_Demi.JPG" width="400" height="400">
+</a>
+<br/>
+Maltipoo <br/>
+<a>
+    <img src="https://apetete.pl/blog/wp-content/uploads/2022/02/maltipoo.jpg"width="400" height="400">
+</a>
+<br/>
+Cocker spaniel angielski<br/>
+<a>
+    <img src="https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=460,height=600,fit=cover/animal/breed/pictures/61cdd82c1ad1a326747653.jpg"width="400" height="400">
+</a>
+<br/>
+Golden retriever <br/>
+<a>
+    <img src="https://static.fajnyzwierzak.pl/media/uploads/media_image/original/wpis/178/cena-golden-retrievera.jpg"width="400" height="400">
+</a>
+
+</div>
+
+<div id="footer">
+    jdfdfjdfj
+</div>
+
+</body>
